@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vivek00715
-- 👀 I’m interested in Java/Springboot and Angular
-- 🌱 I’m currently learning Data Engineering
+- 👀 I’m interested in Data Engineering, Java/Springboot and Angular
+- 🌱 I’m currently working as a Data Engineer.
 - 💞️ I’m looking to collaborate on Backend as well as Frontend
 - 📫 How to reach me :- connect me on LinkedIn https://www.linkedin.com/in/vivek-shukla-088a71129/
 
